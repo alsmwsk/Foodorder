@@ -65,7 +65,8 @@ public class SignInFragment extends Fragment{
 
     private void setFragment(Fragment fragment) {
         FragmentTransaction fragmentTransaction = getActivity().getSupportFragmentManager().beginTransaction();
-        fragmentTransaction.setCustomAnimations(R.anim.slide_from_right, R.anim.slideout_from_right);
+        fragmentTransaction.setCustomAnimations(R.anim.slide_from_left, R.anim.slideout_from_left); // 두번쨰 파라미터가 SignUpFragment로 교체될 때에 실행되는 애니메이션, 첫 번쨰 파라미터가 SignInFragment로 교체될때 실행된다.
+        // setCustomAnimations(int enter, int exit, int popEnter, int popExit)
         fragmentTransaction.replace(parentFrameLayout.getId(), fragment);
         fragmentTransaction.commit();
     }
