@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "244681454680",
+    "firebase_url": "https://shopping-mall-8170a.firebaseio.com",
+    "project_id": "shopping-mall-8170a",
+    "storage_bucket": "shopping-mall-8170a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244681454680:android:2a79a23d8874f843",
+        "android_client_info": {
+          "package_name": "com.development.seowoo.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244681454680-3irh95sm1vmes5aq34sg46udks9ukmnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOYl19lb55GXEfrv8i4OTTwjGGKApVXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244681454680-3irh95sm1vmes5aq34sg46udks9ukmnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244681454680:android:fd61ff26bd7369d1fdc62d",
+        "android_client_info": {
+          "package_name": "com.seowoo.shopmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244681454680-3irh95sm1vmes5aq34sg46udks9ukmnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOYl19lb55GXEfrv8i4OTTwjGGKApVXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244681454680-3irh95sm1vmes5aq34sg46udks9ukmnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
